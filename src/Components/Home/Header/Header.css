@@ -1,0 +1,17 @@
+nav ul,.btn{
+    margin-top: 30px;
+}
+nav ul li,.btn {
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.ctn{
+    margin-right: 20px;
+    background-color: #111430;
+    color:#fff;
+    padding: 5px 30px 5px 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
